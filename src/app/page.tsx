@@ -46,7 +46,7 @@ const aboutMissionCultureText =
 const DEFAULT_PRESS_IMAGE = "/images/placeholder-poster.svg";
 
 const stats = [
-  { value: "30+", label: "Projects" },
+  { value: "33+", label: "Projects" },
   { value: "8+", label: "Years" },
   { value: "10+", label: "Awards" },
 ];
